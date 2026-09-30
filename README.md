@@ -1,6 +1,6 @@
 # f9c-cicd-demo
 
-[![F9C CI/CD](https://github.com/F9Csec/f9c-cicd-demo/actions/workflows/cicd.yml/badge.svg)](https://github.com/F9Csec/f9c-cicd-demo/actions/workflows/cicd.yml)
+[![F9C CI/CD](https://github.com/F9Csecurity/f9c-cicd-demo/actions/workflows/cicd.yml/badge.svg)](https://github.com/F9Csecurity/f9c-cicd-demo/actions/workflows/cicd.yml)
 
 PoC da esteira CI/CD da F9C utilizando GitHub Actions.
 
